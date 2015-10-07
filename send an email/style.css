@@ -1,0 +1,40 @@
+#back{
+	
+	margin:0 auto;
+	width:700px;
+	height:800px;
+	background:#0E0E0E;
+}
+
+#ground{
+	
+	border-radius:30px;
+	margin:0 auto;
+	width:650px;
+	height:750px;
+	background:#9ACD32;
+	position:relative;
+	top:25px;
+}
+h1{
+	position:relative;
+	top:80px;
+	left: 155px;
+	
+	
+}
+#red{
+	
+	Position:relative;
+	top:100px;
+	left: 155px;
+}
+
+body{
+	background:#E9FFE1;
+}
+
+textarea{
+	height:300px;
+	width:250px;
+}
